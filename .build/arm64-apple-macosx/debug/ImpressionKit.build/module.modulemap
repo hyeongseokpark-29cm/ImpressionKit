@@ -1,0 +1,4 @@
+module ImpressionKit {
+    header "/Users/parkhyeongseok/ImpressionKit/.build/arm64-apple-macosx/debug/ImpressionKit.build/ImpressionKit-Swift.h"
+    requires objc
+}
