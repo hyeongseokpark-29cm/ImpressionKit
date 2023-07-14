@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "7efba1c5159b93a7cad550341b2e65b5b796170614752004fc1c59b70afb35fc"
+build_start_time: [1689314808, 304727000]
+build_end_time: [1689314808, 667582000]
+inputs:
+  "/Users/parkhyeongseok/ImpressionKit/Sources/ImpressionKit/ImpressionKit.swift": [1689314768, 122049866]
