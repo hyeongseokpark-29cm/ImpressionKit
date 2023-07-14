@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/parkhyeongseok/ImpressionKit/.build/arm64-apple-macosx/debug/ImpressionKitTests.build/master.swiftdeps"
+  },
+  "/Users/parkhyeongseok/ImpressionKit/Tests/ImpressionKitTests/ImpressionKitTests.swift": {
+    "dependencies": "/Users/parkhyeongseok/ImpressionKit/.build/arm64-apple-macosx/debug/ImpressionKitTests.build/ImpressionKitTests.d",
+    "object": "/Users/parkhyeongseok/ImpressionKit/.build/arm64-apple-macosx/debug/ImpressionKitTests.build/ImpressionKitTests.swift.o",
+    "swiftmodule": "/Users/parkhyeongseok/ImpressionKit/.build/arm64-apple-macosx/debug/ImpressionKitTests.build/ImpressionKitTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/parkhyeongseok/ImpressionKit/.build/arm64-apple-macosx/debug/ImpressionKitTests.build/ImpressionKitTests.swiftdeps"
+  }
+}
